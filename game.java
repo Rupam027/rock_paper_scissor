@@ -16,7 +16,7 @@ public class game
 			
                  
                  
-                 int c = (int)(Math.random()*2);
+                 int c = (int)(Math.random()*3);
                  char compch = arr[c] ;
                  System.out.println("Your Choice -> "+ choice + "\nComputer Choice -> " + compch); 
                  if(choice == compch)
