@@ -9,4 +9,6 @@ to start the game, follow the steps:-
 4. Type java -jar rock_paper_scissor.jar and press enter
 5. Enjoy
 
+Requirments:
+jdk version 9 or More should be installed
 
